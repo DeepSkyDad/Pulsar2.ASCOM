@@ -1,0 +1,9 @@
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\bin\Debug\ASCOM.Pulsar2.Telescope.dll.config
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\bin\Debug\ASCOM.Pulsar2.Telescope.dll
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\bin\Debug\ASCOM.Pulsar2.Telescope.pdb
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\bin\Debug\ASCOM.Pulsar2.Telescope.tlb
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\obj\Debug\ASCOM.Pulsar2.Properties.Resources.resources
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\obj\Debug\ASCOM.Pulsar2.SetupDialogForm.resources
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\obj\Debug\Pulsar2Driver.csproj.GenerateResource.Cache
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\obj\Debug\ASCOM.Pulsar2.Telescope.dll
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2Driver\obj\Debug\ASCOM.Pulsar2.Telescope.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\bin\Debug\Pulsar2UnitTest.dll
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\bin\Debug\Pulsar2UnitTest.pdb
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\bin\Debug\ASCOM.Pulsar2.Telescope.dll
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\bin\Debug\ASCOM.Pulsar2.Telescope.pdb
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\obj\Debug\Pulsar2UnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\obj\Debug\Pulsar2UnitTest.dll
+D:\Projects\Observatory\Pulsar2Driver\Pulsar2UnitTest\obj\Debug\Pulsar2UnitTest.pdb

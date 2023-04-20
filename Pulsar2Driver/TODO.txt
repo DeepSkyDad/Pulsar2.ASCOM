@@ -1,0 +1,27 @@
+Generally speaking, 
+parameters like
+site lat/long
+date
+is slewing
+is parked
+
+should be polled at handshaking, flags set if necessary
+
+Ra and Dec every 3 sec and stored in a buffer in case a program asks more frequently
+Side of pier or destination side of pier every 5 sec, stored in buffer
+Is slewing every 5 sec but only after a slew command. When it returns false you can stop polling until the next slew.
+Maybe it is wise to check "is slewing" before a slew, to see if it is ready to slew.
+
+During parking, poll "is parked" every 3 sec, until it returns true.
+
+
+Do we implement following stuff:
+
+ApertureArea	
+The area of the telescope's aperture, taking into account any obstructions (square meters)
+
+ApertureDiameter	
+The telescope's effective aperture diameter (meters)
+
+AtHome	
+True if the telescope is stopped in the Home position. Set only following a FindHome() operation, and reset with any slew operation. This property must be False if the telescope does not support homing.
