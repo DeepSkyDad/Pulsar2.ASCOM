@@ -34,11 +34,11 @@ Name: "{cf}\ASCOM\Uninstall\Telescope\Pulsar2"
 ; TODO: Add subfolders below {app} as needed (e.g. Name: "{app}\MyFolder")
 
 [Files]
-Source: "D:\Projects\DotNet\Pulsar2Driver\Pulsar2Driver\bin\Release\ASCOM.Pulsar2.Telescope.dll"; DestDir: "{app}"
+Source: "D:\Projects\Pulsar2.ASCOM\Pulsar2Driver\bin\Release\ASCOM.Pulsar2.Telescope.dll"; DestDir: "{app}"
 ; Require a read-me HTML to appear after installation, maybe driver's Help doc
-Source: "D:\Projects\DotNet\Pulsar2Driver\Pulsar2Driver\ReadMe.htm"; DestDir: "{app}"; Flags: isreadme
+Source: "D:\Projects\Pulsar2.ASCOM\Pulsar2Driver\ReadMe.htm"; DestDir: "{app}"; Flags: isreadme
 ; TODO: Add other files needed by your driver here (add subfolders above)
-Source: "D:\Projects\DotNet\Pulsar2Driver\Pulsar2Driver\readme.jpg"; DestDir: "{app}";
+Source: "D:\Projects\Pulsar2.ASCOM\Pulsar2Driver\readme.jpg"; DestDir: "{app}";
 
 
 ; Only if driver is .NET
