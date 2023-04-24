@@ -40,7 +40,7 @@ namespace ASCOM.Pulsar2
             { "#:CM", new List<string>() { Helper.FormatCommand("GR"), Helper.FormatCommand("GD") } },
             { "#:MS", new List<string>() { Helper.FormatCommand("YGi") } },
             { "#:Q", new List<string>() { Helper.FormatCommand("YGi") } },
-            { "#:YH", new List<string>() { Helper.FormatCommand("YGk") } },
+            { "#:YH", new List<string>() { Helper.FormatCommand("YGk"), Helper.FormatCommand("YGi") } },
             { "#:YL", new List<string>() { Helper.FormatCommand("YGk") } },
             { "#:St", new List<string>() { Helper.FormatCommand("Gt") } },
             { "#:Sg", new List<string>() { Helper.FormatCommand("Gg") } },
